@@ -1,0 +1,4 @@
+{
+    "instruction_input_file": "CPU_sim_project/instruction_input.txt",
+    "data_input_file": "CPU_sim_project/data_input.txt"
+}
